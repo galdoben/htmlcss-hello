@@ -10,5 +10,5 @@ Prima repo -Hello-
 - In questo ordine eseguo lo stanging, il commit e il push
 
 ## Seconda Parte
--Eseguito il primo commit controllo su GitHub il front
+- Eseguito il primo commit controllo su GitHub il front
 - Proseguo con gli altri commit
