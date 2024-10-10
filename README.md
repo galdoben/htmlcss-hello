@@ -1,6 +1,6 @@
-<h1>LA MIA PRIMA REPOSITORY</h1>
+<h1><strong>LA MIA PRIMA REPOSITORY</strong></h1>
 Prima repo -Hello-
-===
+
 
 ## Prima Parte
 - Accedo a Github creando una nuova repository
