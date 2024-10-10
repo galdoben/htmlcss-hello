@@ -12,3 +12,11 @@ Prima repo -Hello-
 ## Seconda Parte
 - Eseguito il primo commit controllo su GitHub il front
 - Proseguo con gli altri commit
+
+## Terza Parte
+- Aggiungo un nuovo file index.html
+- Cambio il "title", nonchè il nome della page
+- Aggiungo nel "body" la testata
+- Mai dimenticare di salvare!
+- Rieseguo lo stanging, il commit e di conseguenza il push
+
